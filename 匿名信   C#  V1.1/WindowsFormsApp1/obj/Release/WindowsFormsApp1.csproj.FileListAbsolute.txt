@@ -1,0 +1,32 @@
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\L1334\Desktop\匿名信\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.mainform.resources
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\杂项\软件\自己写的\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.mainform.resources
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\L1334\Desktop\匿名信   C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
